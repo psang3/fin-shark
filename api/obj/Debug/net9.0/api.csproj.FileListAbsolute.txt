@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\fin-shark\api\obj\Debug\net9.0\api.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\fin-shark\api\obj\Debug\net9.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\fin-shark\api\obj\Debug\net9.0\api.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\fin-shark\api\obj\Debug\net9.0\api.AssemblyInfo.cs
+C:\Users\Admin\Documents\fin-shark\api\obj\Debug\net9.0\api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\fin-shark\api\obj\Debug\net9.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\fin-shark\api\obj\Debug\net9.0\api.MvcApplicationPartsAssemblyInfo.cache
